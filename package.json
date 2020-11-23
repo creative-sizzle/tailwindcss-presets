@@ -1,0 +1,21 @@
+{
+  "name": "@creative-sizzle/tailwindcss-presets",
+  "version": "1.0.0",
+  "description": "Creative Sizzle TailwindCSS presets for all projects",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creative-sizzle/tailwindcss-presets.git"
+  },
+  "keywords": [
+    "TailwindCSS"
+  ],
+  "author": "Eric Pfeiffer <eric@creativesizzle.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creative-sizzle/tailwindcss-presets/issues"
+  },
+  "homepage": "https://github.com/creative-sizzle/tailwindcss-presets#readme"
+}
