@@ -1,6 +1,6 @@
 {
   "name": "@creative-sizzle/tailwindcss-presets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creative Sizzle TailwindCSS presets for all projects",
   "scripts": {
     "test": "echo \"Error: no test specified\""
