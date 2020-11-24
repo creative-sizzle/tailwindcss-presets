@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/creative-sizzle/tailwindcss-presets/issues"
   },
-  "homepage": "https://github.com/creative-sizzle/tailwindcss-presets#readme"
+  "homepage": "https://github.com/creative-sizzle/tailwindcss-presets#readme",
+  "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.2.0",
+    "@tailwindcss/forms": "^0.2.1",
+    "tailwindcss-typography": "^3.1.0"
+  }
 }
